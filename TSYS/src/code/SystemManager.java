@@ -14,8 +14,8 @@ public class SystemManager {
 	 */
 	private PersonList plist;  // 従業員のリスト
 	private WorkList wlist;    // 稼働のリスト
-	private String pfilename = "C:\\pleiades\\2022-06\\workspace\\TSYS\\src\\database\\person.csv"; //csvファイルの場所
-	private String wfilename = "C:\\pleiades\\2022-06\\workspace\\TSYS\\src\\database\\work.csv";
+	private String pfilename = "C:\\pleiades\\workspace\\TSYS\\src\\database\\person.csv"; //csvファイルの場所
+	private String wfilename = "C:\\pleiades\\workspace\\TSYS\\src\\database\\work.csv";
 
 	private ConsoleStatus sts1, sts2;      //クラスのオブジェクトを作成する。。
 	private DisplayPersonStatus sts5, sts5_2;
